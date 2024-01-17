@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IMDBMovies/static/css/main.4eedd8b0.css",
+    "main.js": "/IMDBMovies/static/js/main.2c9d1542.js",
+    "static/js/787.74ceadb4.chunk.js": "/IMDBMovies/static/js/787.74ceadb4.chunk.js",
+    "index.html": "/IMDBMovies/index.html",
+    "main.4eedd8b0.css.map": "/IMDBMovies/static/css/main.4eedd8b0.css.map",
+    "main.2c9d1542.js.map": "/IMDBMovies/static/js/main.2c9d1542.js.map",
+    "787.74ceadb4.chunk.js.map": "/IMDBMovies/static/js/787.74ceadb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eedd8b0.css",
+    "static/js/main.2c9d1542.js"
+  ]
+}
